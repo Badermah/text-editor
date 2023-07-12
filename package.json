@@ -16,7 +16,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "if-env": "^1.0.4"
+    "html-webpack-plugin": "^5.5.3",
+    "if-env": "^1.0.4",
+    "node-polyfill-webpack-plugin": "^2.0.1"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
