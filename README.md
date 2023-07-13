@@ -3,9 +3,13 @@
 ## Table of Contents
 
 [Descripton](#Description)
+
 [Usage](#Usage)
+
 [Demo](#Demo)
+
 [Credits](#Credits)
+
 [Links](#Links)
 
 ## Description
